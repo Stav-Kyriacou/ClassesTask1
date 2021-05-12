@@ -6,7 +6,10 @@ namespace ClassesTask1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Cookie cookie1 = new Cookie(200, "circle");
+
+            cookie1.WriteInfo();
+
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\bin\Debug\net5.0\ClassesTask1.exe
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\bin\Debug\net5.0\ClassesTask1.deps.json
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\bin\Debug\net5.0\ClassesTask1.runtimeconfig.json
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\bin\Debug\net5.0\ClassesTask1.runtimeconfig.dev.json
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\bin\Debug\net5.0\ClassesTask1.dll
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\bin\Debug\net5.0\ref\ClassesTask1.dll
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\bin\Debug\net5.0\ClassesTask1.pdb
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\obj\Debug\net5.0\ClassesTask1.csprojAssemblyReference.cache
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\obj\Debug\net5.0\ClassesTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\obj\Debug\net5.0\ClassesTask1.AssemblyInfoInputs.cache
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\obj\Debug\net5.0\ClassesTask1.AssemblyInfo.cs
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\obj\Debug\net5.0\ClassesTask1.csproj.CoreCompileInputs.cache
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\obj\Debug\net5.0\ClassesTask1.dll
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\obj\Debug\net5.0\ref\ClassesTask1.dll
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\obj\Debug\net5.0\ClassesTask1.pdb
+C:\Users\stavr\SwinUni\Programming\ClassesTask1\obj\Debug\net5.0\ClassesTask1.genruntimeconfig.cache
