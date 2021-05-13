@@ -21,6 +21,15 @@ namespace ClassesTask1
             cookie3.WriteInfo();
             cookie4.WriteInfo();
 
+            Console.WriteLine();
+
+            Person stavros = new Person("Stavros", "Kyriacou", "26/01/1999", 180);
+            Person someone = new Person("Someone", "Somebody", "01/01/2021", 170);
+            Person bibius = new Person("Bibius", "Maximus", "01/01/2021", 185);
+
+            stavros.GetHeightDifference(someone);
+            stavros.GetHeightDifference(bibius);
+            someone.GetHeightDifference(bibius);
         }
     }
 }
