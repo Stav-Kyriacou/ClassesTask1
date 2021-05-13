@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stavr\\SwinUni\\Programming\\ClassesTask1\\ClassesTask1.csproj": {}
+    "F:\\VSProjects\\Programming\\ClassesTask1\\ClassesTask1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stavr\\SwinUni\\Programming\\ClassesTask1\\ClassesTask1.csproj": {
+    "F:\\VSProjects\\Programming\\ClassesTask1\\ClassesTask1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stavr\\SwinUni\\Programming\\ClassesTask1\\ClassesTask1.csproj",
+        "projectUniqueName": "F:\\VSProjects\\Programming\\ClassesTask1\\ClassesTask1.csproj",
         "projectName": "ClassesTask1",
-        "projectPath": "C:\\Users\\stavr\\SwinUni\\Programming\\ClassesTask1\\ClassesTask1.csproj",
-        "packagesPath": "C:\\Users\\stavr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stavr\\SwinUni\\Programming\\ClassesTask1\\obj\\",
+        "projectPath": "F:\\VSProjects\\Programming\\ClassesTask1\\ClassesTask1.csproj",
+        "packagesPath": "C:\\Users\\Stavros\\.nuget\\packages\\",
+        "outputPath": "F:\\VSProjects\\Programming\\ClassesTask1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\stavr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Stavros\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

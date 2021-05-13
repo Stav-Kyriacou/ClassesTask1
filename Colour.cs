@@ -4,11 +4,10 @@ namespace ClassesTask1
 {
     class Colour
     {
-        float r;
-        float g;
-        float b;
-
-        string name;
+        public float r;
+        public float g;
+        public float b;
+        public string name;
 
         public Colour(float r, float g, float b, string name)
         {
@@ -20,7 +19,7 @@ namespace ClassesTask1
 
         public void WriteInfo()
         {
-            Console.WriteLine("I am a cookie. My weight: {0}, My shape: {1}", weight, name);
+            Console.WriteLine("I am the colour {0}, my RGB value is ({1},{2},{3})", name, r, g, b);
         }
     }
 }
