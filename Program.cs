@@ -59,9 +59,9 @@ namespace ClassesTask1
             stavros.EnrolInSubject(webProgramming);
 
             //Give grades for each subject
-            stavros.UpdateGrade(0, 100);
-            stavros.UpdateGrade(1, 100);
-            stavros.UpdateGrade(2, 100);
+            stavros.subjects[0].UpdateGrade(100);
+            stavros.subjects[1].UpdateGrade(100);
+            stavros.subjects[2].UpdateGrade(100);
 
             //List the subjects a person has enrolled in
             stavros.ListAllSubjects();

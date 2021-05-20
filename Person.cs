@@ -49,10 +49,6 @@ namespace ClassesTask1
                 subj.WriteInfo();
             }
         }
-        public void UpdateGrade(int subjectIndex, int grade)
-        {
-            subjects[subjectIndex].UpdateGrade(grade);
-        }
         public void DisplayGrades()
         {
             Console.WriteLine("Displaying {0}'s grades...", firstName);
